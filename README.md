@@ -1,2 +1,2 @@
 # TKJ-resolusi
-Repository untuk testing
+Repository ini untuk testing dan pembelajaran git
